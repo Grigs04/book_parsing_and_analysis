@@ -51,11 +51,8 @@
   - `math`
   - `sqlite3`
   - `pathlib`
-  - `bs4`
+  - `re`
 
-```bash
-pip install requests beautifulsoup4 lxml fake_useragent
-```
 
 ## Описание проекта
 project_root
