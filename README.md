@@ -47,6 +47,11 @@
   - `beautifulsoup4`
   - `lxml`
   - `fake_useragent`
+  - `typing`
+  - `math`
+  - `sqlite3`
+  - `pathlib`
+  - `bs4`
 
 ```bash
 pip install requests beautifulsoup4 lxml fake_useragent
