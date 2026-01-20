@@ -1,4 +1,4 @@
-from fetch import html_scrape
+from parser import html_scrape
 from analysis import book_statistics, build_word_counter
 from console import play_console, pick_book
 from config import urls
